@@ -1,0 +1,42 @@
+tag 3f734ff7555c87ee1f7c5fff973882c7c5388931 0.3.0
+Author:	zorkqz <zorkqz@gmail.com>
+Date:	Thu Dec 26 20:12:50 2019 +0100
+
+commit 52efe328551c9540e37ec98858c59c0619165a06
+Author: zorkqz <zorkqz@gmail.com>
+Date:   Thu Dec 26 20:10:24 2019 +0100
+
+    Add Key Bindings
+
+commit 52efe328551c9540e37ec98858c59c0619165a06
+Author: zorkqz <zorkqz@gmail.com>
+Date:   Thu Dec 26 20:10:24 2019 +0100
+
+    Add Key Bindings
+
+commit fe0f56623d360e712bcc1f555d90054f0c3abbeb
+Author: zorkqz <zorkqz@gmail.com>
+Date:   Thu Dec 26 19:16:34 2019 +0100
+
+    Update config image in readme
+
+commit ca1d90c301767cef2cd5d069e357774614bcd10e
+Author: zorkqz <zorkqz@gmail.com>
+Date:   Thu Dec 26 19:14:30 2019 +0100
+
+    Allow hiding the text
+
+commit 3199691b5545801911e97b8ed67e835ef38c5b2b
+Author: zorkqz <zorkqz@gmail.com>
+Date:   Thu Dec 26 19:01:27 2019 +0100
+
+    Update Interface Version
+    
+    (cherry picked from commit 6d86b27b350fad51ad47eb0b1434c31052b69b76)
+
+commit caedd414c951b1799c5dce01836a690af9a5ee5b
+Author: zorkqz <zorkqz@gmail.com>
+Date:   Tue Dec 10 18:40:55 2019 +0100
+
+    Update toc version
+

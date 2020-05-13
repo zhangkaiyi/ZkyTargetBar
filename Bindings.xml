@@ -1,0 +1,10 @@
+<Bindings>
+	<Binding name="CLICK ReturnTargetIconBarButton8:LeftButton" header="RETURNTARGETBAR" category="ADDONS" />
+	<Binding name="CLICK ReturnTargetIconBarButton7:LeftButton" category="ADDONS" />
+	<Binding name="CLICK ReturnTargetIconBarButton6:LeftButton" category="ADDONS" />
+	<Binding name="CLICK ReturnTargetIconBarButton5:LeftButton" category="ADDONS" />
+	<Binding name="CLICK ReturnTargetIconBarButton4:LeftButton" category="ADDONS" />
+	<Binding name="CLICK ReturnTargetIconBarButton3:LeftButton" category="ADDONS" />
+	<Binding name="CLICK ReturnTargetIconBarButton2:LeftButton" category="ADDONS" />
+	<Binding name="CLICK ReturnTargetIconBarButton1:LeftButton" category="ADDONS" />
+</Bindings>
